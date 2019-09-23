@@ -1,4 +1,4 @@
-# Basic Augmented Reality cardboard assembly Requirements
+# Augmented Reality cardboard assembly Application
 
 The cardboard assembly application allows the user to scan the QR code and follow assembly instructions being displayed.
 
