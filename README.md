@@ -19,8 +19,9 @@ The cardboard assembly application allows the user to scan the QR code and follo
       
       $ git clone https://github.com/Priyaljain20/Augmented-Reality-cardboard-assembly.git
 
-- Open the project in unity3d
-- Create vuforia license key and add it into the vuforia configuration settings
+- Open the project in unity3d.
+- Create vuforia license key and add it into the vuforia configuration settings.
+- Build and run the application.
 
 ## Note
 This is still an experimental project which is being developed actively. I'll share a roadmap soon covering every detail. I'll recommend not to use this project in production because it's still not graduated from the experimental stage and requires a lot of internal work to go from experimental to stable. But, mostly importantly you can play with this project and can try to explore the augmented reality domain. I am sure that you'll enjoy this stuff. Thanks!
